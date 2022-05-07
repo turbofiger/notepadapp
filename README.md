@@ -1,6 +1,6 @@
 # notepadapp
 
-A new Flutter application.
+Simple notes app based on Provider and SQFLite
 
 ## Getting Started
 
